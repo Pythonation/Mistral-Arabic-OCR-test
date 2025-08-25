@@ -175,6 +175,8 @@ conversion.log
 # Database files
 *.csv
 processed_files.csv
+*.db
+processed_files.db
 
 # Document directories (if they contain sensitive or large files)
 docs_import/
